@@ -1,0 +1,5 @@
+Group Name - Panda
+Group Members - Dillon Falkenklous, Daniel Ashbeck, Matt Vice, Kira Freedman, Erika Loc
+URL to clone repository - https://github.com/KiraFreedman/Basketball_Game.git
+Commit - final_commit
+Name of python script - skeleton.py
